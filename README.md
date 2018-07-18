@@ -3,7 +3,7 @@ Jin Wan Park
 School of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea
 jinpark@cau.ac.kr 
 
-This painting analysys tools using the image subset barycenter pattern 
+This painting analysys tools use the image subset barycenter pattern 
 to reveal genre and artist characteristics
 
 The suggested visualization and analysis tool is inspired by 
